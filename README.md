@@ -1,5 +1,7 @@
 ﻿# Code Challenge
 
+run the app, and then you will show in the console
+
 > app array sum_number
 
 please insert the array numbers separated by comma, an space and then the sum number expected
